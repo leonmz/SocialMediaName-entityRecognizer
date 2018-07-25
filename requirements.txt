@@ -1,0 +1,6 @@
+sklearn
+sklearn_crfsuite
+nltk
+pandas
+numpy
+copy
