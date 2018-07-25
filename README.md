@@ -1,9 +1,5 @@
-# final-exam-team
-final-exam-team created by GitHub Classroom
+# Social Media Text Name-entity Recognizer
 
-using pip install requirements.txt for denpendency
+Our task is to build a named-entity recognizer for Twitter text, a key component of our tweet-scanning system.
 
-download data files to data folder
 
-direct run code from terminal is fine.
-One is for logistic and CRF and another file is BLSTM+CRF+CNN
