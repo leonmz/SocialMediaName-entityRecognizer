@@ -6,4 +6,5 @@ Our final modle was based on LSTM + CNN ensemble modle:
 ![](doc/model.png)
 
 Detailed methods and error analysis can be found in this essay:
+![](doc/error.png)
 ![ResultReport](doc/report.pdf)
